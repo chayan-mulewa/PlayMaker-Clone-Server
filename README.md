@@ -1,0 +1,1 @@
+npm i express mongoose bcryptjs cors dotenv jsonwebtoken morgan cookie-parser cloudinary multer

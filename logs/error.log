@@ -1,0 +1,35 @@
+2024-09-22T12:17:59.223Z [error]: Failed to delete file: public\temp\a62ee30b2886f4cd0a71.jpg
+2024-09-22T12:18:51.593Z [error]: Failed to delete file: public\temp\c44cde27d1a096d2e0fa.jpg
+2024-09-22T12:21:29.831Z [error]: Failed to delete file: public\temp\dd0cba2bed23edb4d3ae.jpg
+2024-09-22T12:21:29.837Z [error]: Failed to delete file: public\temp\2754d7a9c27b3f593cff.jpg
+2024-09-22T12:21:47.161Z [error]: Failed to delete file: public\temp\7ff73d194d955139479f.jpg
+2024-09-22T12:21:47.163Z [error]: Failed to delete file: public\temp\bfaead91f4e47916cb24.jpg
+2024-09-24T08:06:29.594Z [error]: Failed to delete file: public\temp\50449ea1345a1976a946.jpg
+2024-09-24T08:17:31.235Z [error]: Failed to delete file: public\temp\f38ed0ff57f194a59b6d.jpg
+2024-09-24T08:19:20.728Z [error]: Failed to delete file: public\temp\737153c3376291fbd55d.jpg
+2024-09-24T08:19:54.291Z [error]: Failed to delete file: public\temp\603aa880ea190a2f97e9.jpg
+2024-09-24T08:40:35.452Z [error]: Failed to delete file: public\temp\b31ec950a4b9bd8a4614.jpg
+2024-09-24T08:41:43.496Z [error]: Failed to delete file: public\temp\a595ef596036aa94efb4.jpg
+2024-09-24T08:41:43.511Z [error]: Failed to delete file: public\temp\81970300e6046ad39ccc.jpg
+2024-09-24T08:41:44.974Z [error]: Failed to delete file: public\temp\a595920e1c80628effb7.jpg
+2024-09-24T08:41:44.981Z [error]: Failed to delete file: public\temp\c5887ee5f859c1947188.jpg
+2024-09-24T08:42:00.014Z [error]: Failed to delete file: public\temp\93cb28c6044a1fef21ad.jpg
+2024-09-24T08:42:00.019Z [error]: Failed to delete file: public\temp\b82c7aa7ae7deb64f4fc.jpg
+2024-09-24T08:42:18.440Z [error]: Failed to delete file: public\temp\84582925ac280c256a46.jpg
+2024-09-24T08:42:18.443Z [error]: Failed to delete file: public\temp\03a4ededec6157c4e8b0.jpg
+2024-09-24T08:42:55.995Z [error]: Failed to delete file chayan: public\temp\7dccd8f9ada5fa0461e3.jpg
+2024-09-24T08:42:56.000Z [error]: Failed to delete file chayan: public\temp\843225474fbffdf80bbd.jpg
+2024-09-24T08:43:30.538Z [error]: Failed to delete file chayan: public\temp\8cd139a33afeba0652ae.jpg
+2024-09-24T08:43:30.544Z [error]: Failed to delete file chayan: public\temp\3e6bfdb528a2b974f409.jpg
+2024-09-24T15:28:00.756Z [error]: Error during file upload: The "path" argument must be of type string. Received [Object: null prototype] The "path" argument must be of type string. Received [Object: null prototype]
+2024-09-24T15:29:02.557Z [error]: Error during file upload: The "path" argument must be of type string. Received [Object: null prototype] The "path" argument must be of type string. Received [Object: null prototype]
+2024-09-24T15:30:38.589Z [error]: Error during file upload: The "path" argument must be of type string. Received [Object: null prototype] The "path" argument must be of type string. Received [Object: null prototype]
+2024-09-24T15:34:39.148Z [error]: Error during file upload: The "path" argument must be of type string. Received [Object: null prototype] The "path" argument must be of type string. Received [Object: null prototype]
+2024-09-24T16:06:04.241Z [error]: Error deleting file: public\temp\d426269173d30049fe4d.jpg
+2024-09-24T16:06:04.249Z [error]: Error deleting file: public\temp\4596dd6100f077d9c20d.jpg
+2024-10-03T08:58:38.287Z [error]: Invalid file extension: asgsjds
+2024-10-03T08:58:38.294Z [error]: Error during file upload: Invalid file extension Invalid file extension
+2024-10-03T08:59:05.344Z [error]: Invalid file extension: asgsjds
+2024-10-03T08:59:05.362Z [error]: Error during file upload: Invalid file extension Invalid file extension
+2024-10-03T09:00:30.007Z [error]: Invalid file extension: asgsjds.jsp
+2024-10-03T09:00:30.016Z [error]: Error during file upload: Invalid file extension Invalid file extension
