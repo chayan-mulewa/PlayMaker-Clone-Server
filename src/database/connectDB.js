@@ -4,7 +4,7 @@ const { DATABASE } = require("../config");
 
 const connectDB = async () => {
   try {
-    const connectionInstance = await mongoose.connect(DATABASE.LOCAL);
+    const connectionInstance = await mongoose.connect(DATABASE.ONLINE);
     console.log(
       `MongoDB Connected on URL :- ${connectionInstance.connection.host}`
     );
